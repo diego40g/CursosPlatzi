@@ -20,3 +20,6 @@ numero1=12
 
 numero_resultado=numero1+numero2
 print(numero_resultado)
+
+numero_decimal=3.4
+print(numero_decimal)
