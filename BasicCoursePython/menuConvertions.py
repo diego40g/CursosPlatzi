@@ -25,7 +25,7 @@ elif opcion==2:
     dolares=str(dolares)
     print("Tienes $"+dolares+" dólares")
 elif opcion==3:
-    pesos=input("¿Cuántos pesos Argentinos tienes?: ")
+    pesos=input("¿Cuántos pesos Mexicanos tienes?: ")
     pesos=float(pesos)
     valor_dolar=24
     dolares=pesos/valor_dolar
