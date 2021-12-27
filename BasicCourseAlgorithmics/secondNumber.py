@@ -1,5 +1,5 @@
 print("""El programa busca el primer y segundo numero mayor dentro de un arreglo""")
-arreglo=[969,666,1,8,10,-9,-500,0,500]
+arreglo=[69,666,1,8,10,-9,-500,0,50]
 
 numMayor1=arreglo[0]
 numMayor2=arreglo[1]
