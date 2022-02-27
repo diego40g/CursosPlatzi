@@ -1,4 +1,4 @@
-# Proyect
+# Proyect 
 Un proyecto usado para aprendizaje del [curso Git y Github](https://platzi.com/cursos/git-github/) de [Platzi](https://platzi.com)
 
 >Un curso de Git y GitHub donde se aprende desde lo más basico hasta ejercicios complejos
