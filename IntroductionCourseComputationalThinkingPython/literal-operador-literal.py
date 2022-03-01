@@ -45,4 +45,9 @@ base=2
 altura=4
 area=(base*altura)/2
 
+my_var='Hello, Platzi'
+print(my_var)
 
+#cambia el aputnador a otro espacio en memoria
+my_var=3
+print(my_var)
