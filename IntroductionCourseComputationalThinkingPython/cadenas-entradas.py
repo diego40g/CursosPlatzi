@@ -16,3 +16,13 @@ my_str[::2]
 'Yo amo a '+my_str          #imprimir cadena
 f'Yo amo a {my_str}'        #imprimir cadena
 f'Yo amo a {my_str}, ' * 100  #imprimir 100 veces la cadena
+
+nombre=input("Cual es tu nombre: ")
+print(nombre)
+print('Tu nombre es',nombre)
+print(f'Tu nombre es {nombre}')##imprimri con forma formateada
+numero=input("Escribe un numero: ")
+print(numero)
+print(type(numero))
+numero=int(input("Escribe un numero: "))  #se encapsula la funcion entero para transformar el str en numero
+print(type(numero))
