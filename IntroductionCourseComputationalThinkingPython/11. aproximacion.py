@@ -9,4 +9,5 @@ while abs(respuesta**2-objetivo)>=epsilon and respuesta<=objetivo: ##abs valor a
 if abs(respuesta**2-objetivo)>=epsilon:
     print(f'No se encontro la raiz cuadrada del {objetivo}')
 else:
-    print(f'La raiz cuadrada de {objetivo} es {respuesta:.2f}')
+    #print(f'La raiz cuadrada de {objetivo} es {respuesta:.2f}')
+    print(f'La raiz cuadrada de {objetivo} es {respuesta}')
