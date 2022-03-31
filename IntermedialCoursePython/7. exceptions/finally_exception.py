@@ -1,4 +1,4 @@
 try:
-    f=open("ardhivo.txt")
+    f=open("archivo.txt")
 finally:
     f.close()
