@@ -96,6 +96,8 @@ def run():
     print(adults)
 
     #agregar una llave para old que sera un boolean
+    #sumar diccionarios < 3.9 y >3.5
+    #old_people = list(map(lambda worker: {**worker, **{"old": worker["age"] > 70}}, DATA))
     #usar | es para sumar diccionarios solo a apartir de python >3.9
     old_people=list(map(lambda worker:worker | {"old": worker["age"]>=70},DATA))
     print(old_people)
