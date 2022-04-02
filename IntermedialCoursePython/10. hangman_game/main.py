@@ -158,7 +158,17 @@ def render_gallow(tried):
 def run():
     #clear_windows()
     #render_gallow(0)
-    letter=input("Ingrese una letra: ")
+    """try:
+        letter=input("Ingrese una letra: ")
+        assert len(letter)>0, "No se puede ingresar cadenas vacias"
+        if len(letter)>1:
+            raise ValueError("Cantidad superior a una letra")
+        print(len(letter))
+    except ValueError as ve:
+        print(ve)"""
+    
+    x=lambda a:a**2
+    print(x(2))
 
 if __name__=="__main__":
     run()
