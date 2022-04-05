@@ -3,9 +3,13 @@ from random import random
 
 
 def assigned_word():
+    works=[]
     with open ("./data.txt","r",encoding="utf-8") as f:
-        works=[work for work in works]
-    return works
+        for work in f:
+            works.append(work)
+        
+        work=works[1]
+    return work
 
 
 def clear_windows():
@@ -14,7 +18,7 @@ def clear_windows():
 
 def random_work(works):
     num=random.randint(0,171)
-    return num
+    return works[num]
 
 
 def render_gallow(tried):
@@ -158,14 +162,16 @@ def render_gallow(tried):
 def run():
     #clear_windows()
     #render_gallow(0)
-    """try:
+    word=assigned_word
+    print(word)
+    try:
         letter=input("Ingrese una letra: ")
         assert len(letter)>0, "No se puede ingresar cadenas vacias"
         if len(letter)>1:
             raise ValueError("Cantidad superior a una letra")
         print(len(letter))
     except ValueError as ve:
-        print(ve)"""
+        print(ve)
     
     x=lambda a:a**2
     print(x(2))
