@@ -1,14 +1,11 @@
 import os
-from random import random
+import random
 
 
 def assigned_word():
-    works=[]
     with open ("./data.txt","r",encoding="utf-8") as f:
-        for work in f:
-            works.append(work)
-        
-        work=works[1]
+        works=[work for work in f]
+        work=random_work(works)
     return work
 
 
@@ -162,7 +159,7 @@ def render_gallow(tried):
 def run():
     #clear_windows()
     #render_gallow(0)
-    word=assigned_word
+    word=assigned_word()
     print(word)
     try:
         letter=input("Ingrese una letra: ")
@@ -172,9 +169,12 @@ def run():
         print(len(letter))
     except ValueError as ve:
         print(ve)
-    
-    x=lambda a:a**2
-    print(x(2))
+    print(letter)    
+    if(letter in word):
+        print("contiene")
+    else:
+        print("no contiene")
+
 
 if __name__=="__main__":
     run()
