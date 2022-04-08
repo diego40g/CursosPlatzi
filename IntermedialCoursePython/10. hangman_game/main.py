@@ -3,7 +3,7 @@ import random
 
 
 def assigned_word():
-    with open ("./data.txt","r",encoding="utf-8") as f:
+    with open ("./archivos/data.txt","r",encoding="utf-8") as f:
         works=[work for work in f]
         work=random_work(works)
     return work
