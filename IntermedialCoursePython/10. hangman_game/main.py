@@ -159,21 +159,41 @@ def render_gallow(tried):
 def run():
     #clear_windows()
     #render_gallow(0)
-    word=assigned_word()
-    print(word)
-    try:
-        letter=input("Ingrese una letra: ")
-        assert len(letter)>0, "No se puede ingresar cadenas vacias"
-        if len(letter)>1:
-            raise ValueError("Cantidad superior a una letra")
-        print(len(letter))
-    except ValueError as ve:
-        print(ve)
-    print(letter)    
-    if(letter in word):
-        print("contiene")
+    key=assigned_word()
+    print(key)
+    word=[i for i in key]
+    word_empty=["_" for i in range(len(word))]
+    count=6
+    while  word!=word_empty and count!=0:
+        clear_windows()
+        print("Intentos permitidos ",count)
+        for i in word_empty:
+            print(i,end=" ")
+        print()
+        while True:
+            try:
+                letter=input("Ingrese una letra: ")
+                assert len(letter)>0, "No se puede ingresar cadenas vacias"
+                if len(letter)>1:
+                    raise ValueError("Cantidad superior a una letra")
+                print(len(letter))
+                break
+            except ValueError as ve:
+                print(ve)
+            print(letter)    
+        if(letter in word):
+            print("contiene")
+            count=count-1
+        else:
+            print("no contiene")
+        for i in range(len(word)):
+            if letter==word[i]:
+                word_empty[i]=word[i]
+    clear_windows()
+    if count==0:
+        print("OH QUE PENA PERDISTE")
     else:
-        print("no contiene")
+        print("Felicidades adivinaste la palabra era: ",key)
 
 
 if __name__=="__main__":
