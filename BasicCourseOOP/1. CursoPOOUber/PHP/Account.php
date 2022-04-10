@@ -11,3 +11,4 @@
             $this->document=$document;
         }
     }
+?>
