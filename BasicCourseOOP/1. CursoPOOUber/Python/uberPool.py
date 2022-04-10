@@ -5,6 +5,6 @@ class UberPool(Car):
     model=str
 
     def __init__(self,license,driver,brand,model):
-        super.__init__(license,driver)
+        super(UberPool,self).__init__(license,driver)
         self.brand=brand
         self.model=model
