@@ -16,4 +16,14 @@ public class UberVan extends Car{
     public UberVan(String license, Account driver){
         super(license, driver);
     }
+
+    @Override
+    public void setPassenger(Integer passenger) {
+        if(passenger==6){
+            super.passengers=passenger;
+        }else{
+            System.out.println("Necesitas asignar 6 pasajeros");
+        }
+    }
+
 }

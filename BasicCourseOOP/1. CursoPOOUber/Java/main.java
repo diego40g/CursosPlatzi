@@ -14,7 +14,7 @@ class Main {
         uberX.printDataCar();
         
         UberVan uberVan=new UberVan("PLK7858",new User("Diego Paz", "1754548789", "diegopaznaula@gmail.com", "password"));
-        uberX.setPassenger(2);
+        uberVan.setPassenger(6);
         uberVan.printDataCar();
     }
 }

@@ -4,7 +4,7 @@ class Car{
     private Account account;
     private Driver driver;
     private User user;
-    private Integer passengers;
+    protected Integer passengers;
 
     public Car(String license, Account account){
         this.license=license;
@@ -75,7 +75,7 @@ class Car{
         this.user = user;
     }
 
-    public Integer getPassenger(){
+        public Integer getPassenger(){
         return passengers;
     }
 
@@ -87,5 +87,4 @@ class Car{
         }
     }
 
-    
 }
