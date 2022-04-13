@@ -1,17 +1,20 @@
 class Main {
     public static void main(String[] args) {
-        Car car = new Car("PQE4651",new Account("Juan Perez", "1754658987"));
+        /*Car car = new Car("PQE4651",new Account("Juan Perez", "1754658987"));
         car.passengers=4;
         car.printDataCar();
 
         Car car2 = new Car("PMA3644",new Account("Pedro Rosero", "1728935463"));
         car2.passengers=3;
-        car2.printDataCar();
+        car2.printDataCar();*/
 
-        UberX uberX=new UberX("PLK7858",new Driver("Diego Paz", "1754548789", "diegopaznaula@gmail.com", "password"), "Ford", "Mustan");
-        uberX.printDataCarDriver();
+        UberX uberX=new UberX("PLK7858",new Account("Juan Perez", "1754658987"), "Ford", "Mustan");
+        //uberX.passengers=4;
+        uberX.setPassenger(2);
+        uberX.printDataCar();
         
-        UberX uberX2=new UberX("PLK7858",new User("Diego Paz", "1754548789", "diegopaznaula@gmail.com", "password"), "Ford", "Mustan");
-        uberX2.printDataUser();
+        UberVan uberVan=new UberVan("PLK7858",new User("Diego Paz", "1754548789", "diegopaznaula@gmail.com", "password"));
+        uberX.setPassenger(2);
+        uberVan.printDataCar();
     }
 }

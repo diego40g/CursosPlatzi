@@ -12,4 +12,8 @@ public class UberVan extends Car{
         this.typeCarAccepted=typeCarAccepted;
         this.seatsMaterial=seatsMaterial;
     }
+
+    public UberVan(String license, Account driver){
+        super(license, driver);
+    }
 }
