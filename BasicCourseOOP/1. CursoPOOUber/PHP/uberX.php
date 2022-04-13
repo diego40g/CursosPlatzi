@@ -9,5 +9,14 @@
             $this->brand=$brand;
             $this->model=$model;
         }
+
+        public function PrintDataCar(){
+            parent::PrintDataCar();
+            echo "
+                Model: $this->model,
+                Brand: $this->brand
+                <p></p>
+            ";
+        }
     }
 ?>

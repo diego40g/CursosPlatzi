@@ -12,7 +12,7 @@
 
         public function setPassenger($passenger) {
             if ($passenger == 6) {
-                $this->passenger = $passenger;
+                $this->passengers = $passenger;
             }
             else {
                 echo "Necesitas asignar 6 pasajeros";

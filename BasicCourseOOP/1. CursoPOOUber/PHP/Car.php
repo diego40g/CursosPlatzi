@@ -13,11 +13,11 @@
 
         public function PrintDataCar(){
             echo "
+                <p></p>
                 License: $this->license, 
                 Driver-name: {$this->driver->name},
                 Driver-document: {$this->driver->document},
                 # de pasajeros: $this->passengers
-                <p></p>
             ";
         }
         
