@@ -12,19 +12,25 @@
         }
 
         public function PrintDataCar(){
-            echo "license: $this->license, driver-name: {$this->driver->name}, driver-document: {$this->driver->document}";
+            echo "
+                License: $this->license, 
+                Driver-name: {$this->driver->name},
+                Driver-document: {$this->driver->document},
+                # de pasajeros: $this->passengers
+                <p></p>
+            ";
         }
-    }
-
-    public function getPassenger() {
-        return $this->passenger;
-    }
-
-    public function setPassenger($passengers){
-        if($passengers==4){
-            $this->passenger=$passengers;
-        }else{
-            echo "Necesitas asignar 4 pasajeros";
+        
+        public function getPassenger() {
+            return $this->passengers;
+        }
+    
+        public function setPassenger($passengers){
+            if($passengers==4){
+                $this->passengers=$passengers;
+            }else{
+                echo "Necesitas asignar 4 pasajeros";
+            }
         }
     }
 ?>
