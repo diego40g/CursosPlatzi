@@ -166,6 +166,7 @@ def run():
     count=6
     while  word!=word_empty and count!=0:
         clear_windows()
+        render_gallow(6-count)
         print("Intentos permitidos ",count)
         for i in word_empty:
             print(i,end=" ")
@@ -180,18 +181,19 @@ def run():
                 break
             except ValueError as ve:
                 print(ve)
-            print(letter)    
+            print(letter) 
         if(letter in word):
             print("contiene")
-            count=count-1
         else:
             print("no contiene")
+            count=count-1   
         for i in range(len(word)):
             if letter==word[i]:
                 word_empty[i]=word[i]
     clear_windows()
     if count==0:
         print("OH QUE PENA PERDISTE")
+        print("La palabra era: ",key)
     else:
         print("Felicidades adivinaste la palabra era: ",key)
 
