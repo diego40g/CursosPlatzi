@@ -5,6 +5,7 @@ def run():
     avion=Millas()
     #Indicamos la distancia
     avion._distancia=200
+    avion.distancia=2100
     #Obtenemos us atributo distancia
     print(avion.definir_distancia)
 
