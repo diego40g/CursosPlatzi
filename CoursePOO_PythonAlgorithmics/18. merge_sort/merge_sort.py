@@ -13,6 +13,7 @@ def ordenamiento_por_mezcla(lista):
         #iterado para la lista principal
         k=0
         while i<len(izquierda) and j<len(derecha):
+            print("i y j")
             if izquierda[i]<derecha[j]:
                 lista[k]=izquierda[i]
                 i+=1
@@ -22,11 +23,13 @@ def ordenamiento_por_mezcla(lista):
             k+=1
 
         while i<len(izquierda):
+            print("i")
             lista[k]=izquierda[i]
             i+=1
             k+=1
         
         while j<len(derecha):
+            print("j")
             lista[k]=derecha[j]
             j+=1
             k+=1
