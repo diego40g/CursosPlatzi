@@ -36,6 +36,10 @@ h1 {
     text-decoration: none;
 }
 
+/* #main-nav .blog {
+    background-color: red !important;
+} */
+
 #main-nav .blog {
-    background-color: red;
+    background-color: red ;
 }
