@@ -1,0 +1,14 @@
+/* selector universal*/
+* {
+    box-sizing: border-box; /*responsive (suma el padding + width del elemento)*/
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    width: 100%;
+    height: 500px;
+    border: 10px solid gray;
+    /*padding: 20px; /*arriba, abajo, derecha, izquierda*/
+    padding: 20px 35px; /*arriba-abajo derecha-izquierda*/
+}
