@@ -19,15 +19,22 @@ html{
     text-align: center;
     padding-top: 0.5rem;    
 }
+img{
+    width: 10rem;
+    height: 10rem;
+    display: block;
+    margin: 0 auto;
+}
 #two{
     background-color: bisque;
     width: 50rem;
-    height: 43rem;
+    height: 54rem;
     margin: 0 auto;
+    padding-top: 3rem;
     border-radius: 1rem;
 }
 #two p{
     text-align: justify;
-    padding: 3.5rem 4rem;
+    padding: 1.5rem 4rem 3.5rem 4rem;
     font-size: 1.5rem;
 }
