@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+p{
+    font-size: 1.6rem; /*con el porcentaje de html esta para que sea 10px=1rem*/
+}
+
+main div{
+    font-size: 2rem;
+}
+.text-container{
+    font-size: 5rem;
+}
