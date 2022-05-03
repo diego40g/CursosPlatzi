@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+.parent{
+    border: 2px black dotted;
+    display: inline-block;
+}
+.box{
+    display: inline-block;
+    background-color: darkgoldenrod;
+    width: 100px;
+    height: 100px;
+}
+
+#one{
+    position: static;
+}
+#two{
+    background-color: green;
+    position: fixed;
+}
+#three{
+    background-color: salmon;
+    position: absolute;
+}
+#four{
+    background-color: darkcyan;
+    position: relative;
+}
