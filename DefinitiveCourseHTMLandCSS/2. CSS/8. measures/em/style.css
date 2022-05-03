@@ -1,0 +1,11 @@
+/* padre directo
+body{
+    font-size: 20px;
+} */
+.text-container {
+    font-size: 1.5em; /*1em=16px o fuente que tenga html o el padre directo*/
+}
+
+.text-container div{
+    font-size: 1.5em;
+}
