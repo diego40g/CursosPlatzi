@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+}
+.container{
+    border: 0.3rem solid black;   
+    display: flex;
+    height: 50vh;
+    /*align-items: center;/*alinia en el centro horizontal*/
+    /*align-items: stretch;/*se estira todo lo posible contenedor padre*/
+    /*align-items: baseline;/*tamño del texto*/
+    flex-wrap: wrap;
+}
+.box{
+    /* width: 10rem; */
+    height: 10rem;
+    flex-basis: 10rem;
+    flex-grow: 1;
+}
+.box1{
+    background-color: aqua;
+    order:1;
+}
+.box2{
+    background-color: burlywood;
+    order:3;
+}
+.box3{
+    background-color: coral;
+    /*si no tiene orden se pasan a la izquierda*/
+    /* flex-grow: 1; */
+}
+.box4{
+    background-color: cornflowerblue;
+    /*si no tiene orden se pasan a la izquierda*/
+    /* flex-grow: 1; */
+}
+.box5{
+    background-color: darkkhaki;
+    order:4;
+}
+.box6{
+    background-color: hotpink;
+    order:2;
+}
