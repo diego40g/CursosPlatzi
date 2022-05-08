@@ -39,3 +39,39 @@ body{
 .box6{
     background-color: hotpink;
 }
+
+.flex-start{
+    border: 0.3rem solid black;  
+    display: flex;
+    justify-content: flex-start;
+}
+.flex-end{
+    border: 0.3rem solid black;  
+    display: flex;
+    justify-content: flex-end;
+}
+.center{
+    border: 0.3rem solid black;  
+    display: flex;
+    justify-content: center;
+}
+.space-between{
+    border: 0.3rem solid black;  
+    display: flex;
+    justify-content: space-between;
+}
+.space-around-1{
+    border: 0.3rem solid black;  
+    display: flex;
+    justify-content: space-around;
+}
+.stretch{
+    border: 0.3rem solid black;  
+    display: flex;
+    justify-content: stretch;
+}
+.space-evenly{
+    border: 0.3rem solid black;  
+    display: flex;
+    justify-content: space-evenly;
+}
