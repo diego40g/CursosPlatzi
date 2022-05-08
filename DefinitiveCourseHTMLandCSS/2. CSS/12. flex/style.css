@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+}
+.container{
+    border: 0.3rem solid black;   
+    display: flex;
+    /*flex-direction: column-reverse; /*row es por defecto*/
+    flex-wrap: wrap;/*va a colocar abajo dependiendo de tamaño pantalla */
+    justify-content: center;
+}
+.box{
+    width: 10rem;
+    height: 10rem;
+}
+.box1{
+    background-color: aqua;
+}
+.box2{
+    background-color: burlywood;
+}
+.box3{
+    background-color: coral;
+}
+.box4{
+    background-color: cornflowerblue;
+}
+.box5{
+    background-color: darkkhaki;
+}
+.box6{
+    background-color: hotpink;
+}
