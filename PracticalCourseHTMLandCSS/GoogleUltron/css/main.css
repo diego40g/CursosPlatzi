@@ -15,6 +15,7 @@ a{
 header{
     width: 100%;
     height: 6rem;
+    font-size: 1.4rem;
 }
 header nav{
     display: flex;
@@ -40,10 +41,85 @@ nav .nav-rigth-section .menu-icon{
     width: 2.5rem;
     height: 2.5rem;
 }
-
 nav .nav-rigth-section img {
     border-radius: 50%;
     margin-left: 1rem;
     width: 3rem;
     height: 3rem;
+}
+
+main{
+    margin-top: 15rem;
+    text-align: center;
+}
+main .main-logo{
+    width: 53rem;
+    margin: 0 auto;
+    margin-bottom: 3.5rem;
+}
+main .main-logo img{
+    width: 30rem;
+}
+main .main-input{
+    width: 53rem;
+    margin: 0 auto;
+    margin-bottom: 3.5rem;
+}
+main .main-input-container{
+    width: 52.5rem;
+    border-radius: 10rem;
+    border: 0.1rem solid #dfe1e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main .main-input-container:hover{
+    box-shadow: 0 0.1rem 0.6rem 0 #20212447;
+    border-color: #dfe1e500;
+}
+main .main-input input{
+    width: 45rem;
+    height: 4rem;
+    border: none;
+    outline: none;
+    padding-left: 0.5rem;
+}
+main .main-input .search-icon{
+    background-image: url("https://img.icons8.com/android/24/000000/search.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 1.8rem;
+    height: 1.8rem;
+}
+main .main-input .micro-icon{
+    background-image: url("https://clipground.com/images/voice-search-icon-clipart.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 1.8rem;
+    height: 1.8rem;
+    cursor: pointer;
+}
+main .main-buttons{
+    width: 53rem;
+    margin: 0 auto;
+}
+main .main-buttons div{
+    display: inline-block;
+}
+main .main-buttons button{
+    height: 3.6rem;
+    background-color: #f2f2f2;
+    border: none;
+    font-size: 1.4rem;
+    color: #5f6368;
+    border-radius: 0.5rem;
+    padding: 0 1.5rem;
+    margin-right: 1.5rem;
+}
+main .main-buttons button:hover{
+    border-color: 0.1rem solid #c6c6c6;
+    box-shadow: 0 0.1rem 0.1rem #000001;
+    color: #222;
 }
