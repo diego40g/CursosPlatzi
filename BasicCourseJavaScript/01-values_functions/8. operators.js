@@ -19,4 +19,15 @@ var a=1;//asignado el valor a la inicializacion
 /*OPERADORES logicos*/
 a && b;//Y AND && debe cumplir las dos
 a || b;//O OR || si alguno de estas es verdad o las dos
-/*
+/*OPERADORES aritmeticos más asignación */
+var edad = 40;
+edad++;
+console.log(edad);
+edad+=3;
+console.log(edad);
+edad--;
+console.log(edad);
+edad-=3
+console.log(edad);
+
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
