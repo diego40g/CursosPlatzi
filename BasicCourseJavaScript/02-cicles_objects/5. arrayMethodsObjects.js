@@ -41,3 +41,21 @@ articulos.forEach((articulo)=>{
 const articulosBaratos=articulos.some((articulo)=>{
     return articulo.costo<=3000
 })
+
+//push
+//Agrega uno o más articulos al final del arreglo
+function addArticle(){
+    articulos.push({nombre:"Impresora",costo:1600},{nombre:"PC",costo:13500})
+}
+nuevosObjetos=[{nombre:"Esfero",costo:90},{nombre:"Borrador",costo:35}]
+function agregarArticulo(){
+    articulos.push(nuevosObjetos)
+}
+
+//shift
+//borra el primer elemento 0 de articulos y se lo asigna borrarArticulo
+const borrarArticulo=articulos.shift()
+
+//pop
+//borra el ultimo elemento de articulos y asigna el borrado en ultimoArticulo
+const ultimoArticulo=articulos.pop()
