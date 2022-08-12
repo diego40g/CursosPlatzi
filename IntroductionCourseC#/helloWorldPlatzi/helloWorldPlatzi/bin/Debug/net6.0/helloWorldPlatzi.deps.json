@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "helloWorldPlatzi/1.0.0": {
+        "runtime": {
+          "helloWorldPlatzi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "helloWorldPlatzi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

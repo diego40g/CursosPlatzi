@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net6.0\helloWorldPlatzi.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net6.0\helloWorldPlatzi.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net6.0\helloWorldPlatzi.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net6.0\helloWorldPlatzi.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net6.0\helloWorldPlatzi.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\refint\helloWorldPlatzi.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\helloWorldPlatzi.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net6.0\ref\helloWorldPlatzi.dll
