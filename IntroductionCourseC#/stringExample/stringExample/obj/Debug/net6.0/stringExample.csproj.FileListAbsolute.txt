@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\bin\Debug\net6.0\stringExample.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\bin\Debug\net6.0\stringExample.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\bin\Debug\net6.0\stringExample.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\bin\Debug\net6.0\stringExample.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\bin\Debug\net6.0\stringExample.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\obj\Debug\net6.0\stringExample.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\obj\Debug\net6.0\stringExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\obj\Debug\net6.0\stringExample.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\obj\Debug\net6.0\stringExample.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\obj\Debug\net6.0\stringExample.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\obj\Debug\net6.0\stringExample.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\obj\Debug\net6.0\refint\stringExample.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\obj\Debug\net6.0\stringExample.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\obj\Debug\net6.0\stringExample.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\stringExample\stringExample\obj\Debug\net6.0\ref\stringExample.dll
