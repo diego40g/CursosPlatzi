@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\bin\Debug\net6.0\NumericCalculator(exampleNumbers).exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\bin\Debug\net6.0\NumericCalculator(exampleNumbers).deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\bin\Debug\net6.0\NumericCalculator(exampleNumbers).runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\bin\Debug\net6.0\NumericCalculator(exampleNumbers).dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\bin\Debug\net6.0\NumericCalculator(exampleNumbers).pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\obj\Debug\net6.0\NumericCalculator(exampleNumbers).csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\obj\Debug\net6.0\NumericCalculator(exampleNumbers).GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\obj\Debug\net6.0\NumericCalculator(exampleNumbers).AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\obj\Debug\net6.0\NumericCalculator(exampleNumbers).AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\obj\Debug\net6.0\NumericCalculator(exampleNumbers).csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\obj\Debug\net6.0\NumericCalculator(exampleNumbers).dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\obj\Debug\net6.0\refint\NumericCalculator(exampleNumbers).dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\obj\Debug\net6.0\NumericCalculator(exampleNumbers).pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\obj\Debug\net6.0\NumericCalculator(exampleNumbers).genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\NumericCalculator(exampleNumbers)\NumericCalculator(exampleNumbers)\obj\Debug\net6.0\ref\NumericCalculator(exampleNumbers).dll
