@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\bin\Debug\net6.0\RealtionalOperators.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\bin\Debug\net6.0\RealtionalOperators.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\bin\Debug\net6.0\RealtionalOperators.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\bin\Debug\net6.0\RealtionalOperators.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\bin\Debug\net6.0\RealtionalOperators.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\obj\Debug\net6.0\RealtionalOperators.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\obj\Debug\net6.0\RealtionalOperators.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\obj\Debug\net6.0\RealtionalOperators.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\obj\Debug\net6.0\RealtionalOperators.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\obj\Debug\net6.0\RealtionalOperators.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\obj\Debug\net6.0\RealtionalOperators.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\obj\Debug\net6.0\refint\RealtionalOperators.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\obj\Debug\net6.0\RealtionalOperators.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\obj\Debug\net6.0\RealtionalOperators.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\RealtionalOperators\RealtionalOperators\obj\Debug\net6.0\ref\RealtionalOperators.dll
