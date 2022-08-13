@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\bin\Debug\net6.0\squareArea.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\bin\Debug\net6.0\squareArea.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\bin\Debug\net6.0\squareArea.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\bin\Debug\net6.0\squareArea.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\bin\Debug\net6.0\squareArea.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\obj\Debug\net6.0\squareArea.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\obj\Debug\net6.0\squareArea.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\obj\Debug\net6.0\squareArea.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\obj\Debug\net6.0\squareArea.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\obj\Debug\net6.0\squareArea.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\obj\Debug\net6.0\squareArea.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\obj\Debug\net6.0\refint\squareArea.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\obj\Debug\net6.0\squareArea.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\obj\Debug\net6.0\squareArea.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\squareArea\squareArea\obj\Debug\net6.0\ref\squareArea.dll
