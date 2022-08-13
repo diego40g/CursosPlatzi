@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\bin\Debug\net6.0\ReadLine.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\bin\Debug\net6.0\ReadLine.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\bin\Debug\net6.0\ReadLine.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\bin\Debug\net6.0\ReadLine.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\bin\Debug\net6.0\ReadLine.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\obj\Debug\net6.0\ReadLine.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\obj\Debug\net6.0\ReadLine.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\obj\Debug\net6.0\ReadLine.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\obj\Debug\net6.0\ReadLine.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\obj\Debug\net6.0\ReadLine.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\obj\Debug\net6.0\ReadLine.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\obj\Debug\net6.0\refint\ReadLine.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\obj\Debug\net6.0\ReadLine.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\obj\Debug\net6.0\ReadLine.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ReadLine\ReadLine\obj\Debug\net6.0\ref\ReadLine.dll
