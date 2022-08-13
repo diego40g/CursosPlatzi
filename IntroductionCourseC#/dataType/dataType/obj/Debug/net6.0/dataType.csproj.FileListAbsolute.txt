@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\bin\Debug\net6.0\dataType.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\bin\Debug\net6.0\dataType.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\bin\Debug\net6.0\dataType.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\bin\Debug\net6.0\dataType.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\bin\Debug\net6.0\dataType.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\obj\Debug\net6.0\dataType.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\obj\Debug\net6.0\dataType.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\obj\Debug\net6.0\dataType.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\obj\Debug\net6.0\dataType.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\obj\Debug\net6.0\dataType.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\obj\Debug\net6.0\dataType.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\obj\Debug\net6.0\refint\dataType.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\obj\Debug\net6.0\dataType.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\obj\Debug\net6.0\dataType.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\dataType\dataType\obj\Debug\net6.0\ref\dataType.dll
