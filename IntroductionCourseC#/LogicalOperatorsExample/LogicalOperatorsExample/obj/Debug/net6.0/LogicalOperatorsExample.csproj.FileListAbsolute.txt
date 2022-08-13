@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\bin\Debug\net6.0\LogicalOperatorsExample.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\bin\Debug\net6.0\LogicalOperatorsExample.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\bin\Debug\net6.0\LogicalOperatorsExample.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\bin\Debug\net6.0\LogicalOperatorsExample.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\bin\Debug\net6.0\LogicalOperatorsExample.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\refint\LogicalOperatorsExample.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\LogicalOperatorsExample.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\LogicalOperatorsExample\LogicalOperatorsExample\obj\Debug\net6.0\ref\LogicalOperatorsExample.dll
