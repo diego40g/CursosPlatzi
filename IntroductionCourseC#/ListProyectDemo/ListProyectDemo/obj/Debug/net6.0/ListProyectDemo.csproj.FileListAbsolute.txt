@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\bin\Debug\net6.0\ListProyectDemo.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\bin\Debug\net6.0\ListProyectDemo.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\bin\Debug\net6.0\ListProyectDemo.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\bin\Debug\net6.0\ListProyectDemo.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\bin\Debug\net6.0\ListProyectDemo.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\obj\Debug\net6.0\ListProyectDemo.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\obj\Debug\net6.0\ListProyectDemo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\obj\Debug\net6.0\ListProyectDemo.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\obj\Debug\net6.0\ListProyectDemo.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\obj\Debug\net6.0\ListProyectDemo.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\obj\Debug\net6.0\ListProyectDemo.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\obj\Debug\net6.0\refint\ListProyectDemo.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\obj\Debug\net6.0\ListProyectDemo.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\obj\Debug\net6.0\ListProyectDemo.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ListProyectDemo\ListProyectDemo\obj\Debug\net6.0\ref\ListProyectDemo.dll
