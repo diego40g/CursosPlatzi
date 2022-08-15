@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\bin\Debug\net6.0\ArrayProyectDemo.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\bin\Debug\net6.0\ArrayProyectDemo.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\bin\Debug\net6.0\ArrayProyectDemo.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\bin\Debug\net6.0\ArrayProyectDemo.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\bin\Debug\net6.0\ArrayProyectDemo.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\obj\Debug\net6.0\ArrayProyectDemo.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\obj\Debug\net6.0\ArrayProyectDemo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\obj\Debug\net6.0\ArrayProyectDemo.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\obj\Debug\net6.0\ArrayProyectDemo.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\obj\Debug\net6.0\ArrayProyectDemo.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\obj\Debug\net6.0\ArrayProyectDemo.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\obj\Debug\net6.0\refint\ArrayProyectDemo.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\obj\Debug\net6.0\ArrayProyectDemo.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\obj\Debug\net6.0\ArrayProyectDemo.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ArrayProyectDemo\ArrayProyectDemo\obj\Debug\net6.0\ref\ArrayProyectDemo.dll
