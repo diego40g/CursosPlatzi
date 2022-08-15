@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\bin\Debug\net6.0\MethodProyectDemo.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\bin\Debug\net6.0\MethodProyectDemo.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\bin\Debug\net6.0\MethodProyectDemo.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\bin\Debug\net6.0\MethodProyectDemo.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\bin\Debug\net6.0\MethodProyectDemo.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\obj\Debug\net6.0\MethodProyectDemo.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\obj\Debug\net6.0\MethodProyectDemo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\obj\Debug\net6.0\MethodProyectDemo.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\obj\Debug\net6.0\MethodProyectDemo.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\obj\Debug\net6.0\MethodProyectDemo.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\obj\Debug\net6.0\MethodProyectDemo.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\obj\Debug\net6.0\refint\MethodProyectDemo.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\obj\Debug\net6.0\MethodProyectDemo.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\obj\Debug\net6.0\MethodProyectDemo.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MethodProyectDemo\MethodProyectDemo\obj\Debug\net6.0\ref\MethodProyectDemo.dll
