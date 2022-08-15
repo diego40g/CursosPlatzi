@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\bin\Debug\net6.0\StringMethod.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\bin\Debug\net6.0\StringMethod.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\bin\Debug\net6.0\StringMethod.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\bin\Debug\net6.0\StringMethod.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\bin\Debug\net6.0\StringMethod.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\obj\Debug\net6.0\refint\StringMethod.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\obj\Debug\net6.0\StringMethod.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\StringMethod\StringMethod\obj\Debug\net6.0\ref\StringMethod.dll
