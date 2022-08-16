@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\bin\Debug\net6.0\ChallengeStringMethod.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\bin\Debug\net6.0\ChallengeStringMethod.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\bin\Debug\net6.0\ChallengeStringMethod.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\bin\Debug\net6.0\ChallengeStringMethod.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\bin\Debug\net6.0\ChallengeStringMethod.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\obj\Debug\net6.0\ChallengeStringMethod.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\obj\Debug\net6.0\ChallengeStringMethod.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\obj\Debug\net6.0\ChallengeStringMethod.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\obj\Debug\net6.0\ChallengeStringMethod.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\obj\Debug\net6.0\ChallengeStringMethod.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\obj\Debug\net6.0\ChallengeStringMethod.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\obj\Debug\net6.0\refint\ChallengeStringMethod.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\obj\Debug\net6.0\ChallengeStringMethod.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\obj\Debug\net6.0\ChallengeStringMethod.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ChallengeStringMethod\ChallengeStringMethod\obj\Debug\net6.0\ref\ChallengeStringMethod.dll
