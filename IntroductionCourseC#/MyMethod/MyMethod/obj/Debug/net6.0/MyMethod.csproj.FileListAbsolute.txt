@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\obj\Debug\net6.0\MyMethod.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\obj\Debug\net6.0\MyMethod.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\obj\Debug\net6.0\MyMethod.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\obj\Debug\net6.0\MyMethod.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\obj\Debug\net6.0\MyMethod.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\bin\Debug\net6.0\MyMethod.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\bin\Debug\net6.0\MyMethod.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\bin\Debug\net6.0\MyMethod.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\bin\Debug\net6.0\MyMethod.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\bin\Debug\net6.0\MyMethod.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\obj\Debug\net6.0\MyMethod.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\obj\Debug\net6.0\refint\MyMethod.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\obj\Debug\net6.0\MyMethod.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\obj\Debug\net6.0\MyMethod.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\MyMethod\MyMethod\obj\Debug\net6.0\ref\MyMethod.dll
