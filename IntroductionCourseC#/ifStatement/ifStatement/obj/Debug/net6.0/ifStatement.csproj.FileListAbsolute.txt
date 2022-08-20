@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\bin\Debug\net6.0\ifStatement.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\bin\Debug\net6.0\ifStatement.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\bin\Debug\net6.0\ifStatement.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\bin\Debug\net6.0\ifStatement.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\bin\Debug\net6.0\ifStatement.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\obj\Debug\net6.0\refint\ifStatement.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\ifStatement\ifStatement\obj\Debug\net6.0\ref\ifStatement.dll
