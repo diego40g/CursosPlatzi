@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\bin\Debug\net6.0\switchStatement.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\bin\Debug\net6.0\switchStatement.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\bin\Debug\net6.0\switchStatement.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\bin\Debug\net6.0\switchStatement.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\bin\Debug\net6.0\switchStatement.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\obj\Debug\net6.0\switchStatement.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\obj\Debug\net6.0\switchStatement.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\obj\Debug\net6.0\switchStatement.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\obj\Debug\net6.0\switchStatement.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\obj\Debug\net6.0\switchStatement.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\obj\Debug\net6.0\switchStatement.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\obj\Debug\net6.0\refint\switchStatement.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\obj\Debug\net6.0\switchStatement.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\obj\Debug\net6.0\switchStatement.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\switchStatement\switchStatement\obj\Debug\net6.0\ref\switchStatement.dll
