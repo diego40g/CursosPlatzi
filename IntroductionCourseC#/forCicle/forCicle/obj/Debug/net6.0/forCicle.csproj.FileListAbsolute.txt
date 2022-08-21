@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\bin\Debug\net6.0\forCicle.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\bin\Debug\net6.0\forCicle.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\bin\Debug\net6.0\forCicle.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\bin\Debug\net6.0\forCicle.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\bin\Debug\net6.0\forCicle.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\obj\Debug\net6.0\forCicle.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\obj\Debug\net6.0\forCicle.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\obj\Debug\net6.0\forCicle.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\obj\Debug\net6.0\forCicle.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\obj\Debug\net6.0\forCicle.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\obj\Debug\net6.0\forCicle.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\obj\Debug\net6.0\refint\forCicle.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\obj\Debug\net6.0\forCicle.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\obj\Debug\net6.0\forCicle.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\forCicle\forCicle\obj\Debug\net6.0\ref\forCicle.dll
