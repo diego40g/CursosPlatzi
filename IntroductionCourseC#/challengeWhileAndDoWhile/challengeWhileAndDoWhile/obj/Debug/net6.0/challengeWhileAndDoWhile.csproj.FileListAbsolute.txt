@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\bin\Debug\net6.0\challengeWhileAndDoWhile.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\bin\Debug\net6.0\challengeWhileAndDoWhile.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\bin\Debug\net6.0\challengeWhileAndDoWhile.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\bin\Debug\net6.0\challengeWhileAndDoWhile.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\bin\Debug\net6.0\challengeWhileAndDoWhile.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\obj\Debug\net6.0\challengeWhileAndDoWhile.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\obj\Debug\net6.0\challengeWhileAndDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\obj\Debug\net6.0\challengeWhileAndDoWhile.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\obj\Debug\net6.0\challengeWhileAndDoWhile.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\obj\Debug\net6.0\challengeWhileAndDoWhile.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\obj\Debug\net6.0\challengeWhileAndDoWhile.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\obj\Debug\net6.0\refint\challengeWhileAndDoWhile.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\obj\Debug\net6.0\challengeWhileAndDoWhile.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\obj\Debug\net6.0\challengeWhileAndDoWhile.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\challengeWhileAndDoWhile\challengeWhileAndDoWhile\obj\Debug\net6.0\ref\challengeWhileAndDoWhile.dll

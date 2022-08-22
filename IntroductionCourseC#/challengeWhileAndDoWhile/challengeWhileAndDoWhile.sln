@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "challengeWhileAndDoWhile", "challengeWhileAndDoWhile\challengeWhileAndDoWhile.csproj", "{B7B9E757-3585-4FEB-B141-414CFC5E5119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B9E757-3585-4FEB-B141-414CFC5E5119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B9E757-3585-4FEB-B141-414CFC5E5119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B9E757-3585-4FEB-B141-414CFC5E5119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B9E757-3585-4FEB-B141-414CFC5E5119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F126C35-5564-4EA8-A71D-1CE23B403E12}
+	EndGlobalSection
+EndGlobal
