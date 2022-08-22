@@ -1,0 +1,15 @@
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.csproj.AssemblyReference.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.AssemblyInfoInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.AssemblyInfo.cs
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.csproj.CoreCompileInputs.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\bin\Debug\net6.0\whileCicle.exe
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\bin\Debug\net6.0\whileCicle.deps.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\bin\Debug\net6.0\whileCicle.runtimeconfig.json
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\bin\Debug\net6.0\whileCicle.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\bin\Debug\net6.0\whileCicle.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\obj\Debug\net6.0\refint\whileCicle.dll
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.pdb
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.genruntimeconfig.cache
+H:\Programacion\CursosPlatzi\IntroductionCourseC#\whileCicle\whileCicle\obj\Debug\net6.0\ref\whileCicle.dll
