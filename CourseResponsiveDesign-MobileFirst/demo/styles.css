@@ -451,11 +451,12 @@ main{
 }
 .plans-container--card{
     position: relative;
+    scroll-snap-align: center;
     width: 70%;
     min-width: 230px;
     max-width: 300px;
     height: 250px;
-    margin: 50px auto 0;
+    margin: 50px 20px 0;
     padding: 0 15px;
     background-color: var(--just-white);
     border-radius: 15px;
@@ -516,4 +517,14 @@ main{
     height: 20px;
     background-image: url('./assets/assets/icons/orange-right-arrow.svg');
     vertical-align: text-bottom;
+}
+
+.plans-container--slider{
+    display: flex;
+    height: 316px;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+
+    /*gap: 50px;*/
 }
