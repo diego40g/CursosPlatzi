@@ -491,6 +491,7 @@ main{
 .plans-card--price span{
     font-size: 1.2rem;
     font-weight: 300;
+    display: inline;
 }
 .plans-info-container .plans-card--saving{
     font-size: 1.2rem;
