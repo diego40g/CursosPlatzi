@@ -310,6 +310,18 @@ main{
     padding: 20px 10px;
     background-color: var(--warm-black);
 }
+.main-tables-container{
+    position: relative;
+    width: 80%;
+    min-width: 190px;
+    max-width: 300px;
+    margin: 50px 10px 0;
+    padding-right: 20px;
+    display: flex;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+}
 .product-detail-batata-logo{
     position: absolute;
     width: 40px;
