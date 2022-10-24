@@ -16,3 +16,9 @@ while(j>=2){
     console.log("El valor de i es: "+j);
     j--;
 }
+
+let respuesta;
+while(respuesta!=4){
+    let pregunta=prompt('¿Cuánto es 2+2?');
+    respuesta=pregunta;
+}
