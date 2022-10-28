@@ -18,3 +18,9 @@ function sumarInputValues(event){
     pResult.innerText=`Resultado de ${input1.value} + ${input2.value} = ${sumaInputs}`;
 }
 
+form.addEventListener("mouseover", enviarFormulario)
+
+function enviarFormulario(e){
+    e.preventDefault();
+    alert("virus")
+}
