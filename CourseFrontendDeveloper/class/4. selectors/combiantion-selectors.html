@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- selectors combinations -->
+    <style>
+        div p{
+            color: Lime
+        }
+        div > div{
+            background: plum;
+        }
+        div + section{
+            background: blue;
+        }
+        div ~ p{
+            color:powderblue
+        }
+    </style>
+</head>
+<body>
+    <section>
+        <h2>Selectores combinados</h2>
+        <div>
+            <p>Platzi</p>
+            <div>
+                <div>Es</div>
+                <div>otro</div>
+            </div>
+            <section>Increible</section>
+            <section>Increible2</section>
+        </div>
+        <p>Clase de hermanos</p>
+        <p>
+            Master
+        </p>
+    </section>
+</body>
+</html>
