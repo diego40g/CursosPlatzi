@@ -11,9 +11,17 @@
             padding: 0;
             box-sizing: border-box;
         }
+        /* safari browser */
         html{
             font-size: 62.5%;
+            height: -webkit-fill-available;
         }
+        body {
+            min-height: 100vh;
+            /* mobile viewport bug fix */
+            min-height: -webkit-fill-available;
+        }
+        /*solve of nav menu in back*/
         div{
             width: 100%;
             height: 100px;
