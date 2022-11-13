@@ -30,16 +30,17 @@
             padding: 0 24px;
             border-bottom: 1px solid var(--very-light-pink);
         }
-        nav .menu{
+        .menu{
             display: none;
         }
-        nav .logo{
+        .logo{
             width: 100px;
         }
-        .navbar-left ul, .navbar-right ul{
+        .navbar-left ul, 
+        .navbar-right ul{
             list-style: none;
             padding: 0;
-            margin-top: 0;
+            margin: 0;
             display: flex;
             align-items: center;
             height: 60px;
@@ -57,7 +58,8 @@
             padding: 8px;
             border-radius: 8px;
         }
-        .navbar-left ul li a:hover, .navbar-right ul li a:hover{
+        .navbar-left ul li a:hover, 
+        .navbar-right ul li a:hover{
             border: 1px solid var(--hospital-gree);
             color: var(--hospital-gree);
         }
@@ -84,7 +86,7 @@
             align-items: center;
         }
         @media (max-width: 640px) {
-            nav .menu{
+            .menu{
                 display: block;
             }
             .navbar-left ul{
