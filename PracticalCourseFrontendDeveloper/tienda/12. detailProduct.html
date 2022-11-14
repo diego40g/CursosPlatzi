@@ -24,19 +24,97 @@
             margin: 0;
             font-family: 'Quicksand', sans-serif;
         }
+        .product-detail{
+            width: 360px;
+            padding-bottom: 24px;
+            position: absolute;
+            right: 0;
+        }
+        /* .product-detail > img:nth-child(1){ */
+        .product-detail-close{
+            background: var(--white);
+            width: 14px;
+            height: 14px;
+            position: absolute;
+            top: 24px;
+            left: 24px;
+            z-index: 2;
+            padding: 12px;
+            border-radius: 50%;
+        }
+        /* .product-detail > img:nth-child(1):hover{ */
+        .product-detail-close:hover{
+            cursor: pointer;
+        }
+        .product-detail > img:nth-child(2){
+            width: 100%;
+            height: 360px;
+            object-fit: cover;
+            border-radius: 0 0 20px 20px;
+        }
+        .product-info{
+            margin: 24px 24px 0px 24px;
+        }
+        .product-info p:nth-child(1){
+            font-weight: bold;
+            font-size: var(--md);
+            margin-top: 0;
+            margin-bottom: 4px;
+        }
+        .product-info p:nth-child(2){
+            color: var(--very-light-pink);
+            font-size: var(--md);
+            margin-top: 0;
+            margin-bottom: 36px;
+        }
+        .product-info p:nth-child(3){
+            color: var(--very-light-pink);
+            font-size: var(--sm);
+            margin-top: 0;
+            margin-bottom: 36px;
+        }
+        .primary-button{
+            background-color: var(--hospital-gree);
+            border-radius: 8px;
+            border: none;
+            color: var(--white);
+            width: 100%;
+            cursor: pointer;
+            font-size: var(--md);
+            font-weight: bold;
+            height: 50px;
+            display: flex;
+            justify-content: center;
+        }
+        .product-info .primary-button p{
+            color: var(--white);
+            margin-top: 14px;
+        }
+        .add-to-cart-button{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        @media (max-width: 640px) {
+            .product-detail{
+                width: 100%;
+            }
+        }
     </style>
 </head>
 <body>
     <aside class="product-detail">
-        <img src="./assets/icons/icon_close.png" alt="close">
+        <div class="product-detail-close">
+            <img src="./assets/icons/icon_close.png" alt="close">
+        </div>
         <img src="https://images.pexels.com/photos/1539788/pexels-photo-1539788.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Guitar">
         <div class="product-info">
             <p>$75,00</p>
             <p>Guitarra</p>
-            <p>This is a musical instrument, for create music and for study subject</p>
-            <button class="primary-butto">
+            <p>This is a musical instrument, for student or profesional into the studios</p>
+            <button class="primary-button add-to-card-button">
                 <img src="./assets/icons/bt_add_to_cart.svg" alt="add to card">
-                Add to car
+                <p>Add to car</p>
             </button>
         </div>
     </aside>
