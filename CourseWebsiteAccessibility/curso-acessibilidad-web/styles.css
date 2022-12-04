@@ -208,6 +208,10 @@ nav {
   width: 30%;
 }
 
+.form-label{
+  color: var(--blanco);
+}
+
 .message-input input {
   height: 150px;
   margin-bottom: 16px;
