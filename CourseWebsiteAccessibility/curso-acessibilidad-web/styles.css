@@ -132,6 +132,16 @@ nav {
   cursor: pointer;
 }
 
+.nav-item:focus-within {
+  background-color: var(--verde);
+}
+
+.nav-item a:focus {
+  outline: none;
+  color: var(--gris-oscuro);
+
+}
+
 .intro {
   margin: 24px 196px 0;
   font-family: var(--secondary-font);
