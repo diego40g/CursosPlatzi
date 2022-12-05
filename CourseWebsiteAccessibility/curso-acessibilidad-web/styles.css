@@ -248,6 +248,10 @@ nav {
   border-radius: 50%;
 }
 
+.arrow:focus {
+  outline: 3px solid var(--verde);
+}
+
 .contact-section {
   align-items: center;
   background-color: var(--gris-oscuro);
