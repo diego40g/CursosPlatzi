@@ -69,6 +69,7 @@ body, header, section {
   margin: 16px 0 8px;
   padding: 8px;
   text-decoration: none;
+  outline: 3px solid var(--verde);
 }
 
 .header {
@@ -164,6 +165,15 @@ nav {
   text-decoration: none;
 }
 
+.social-media li a:focus{
+  outline: none;
+}
+
+.social-media li:focus-within{
+  outline: 3px solid var(--verde);
+  padding: 8px;
+}
+
 .social-link-text {
   padding: 0 8px;
 }
@@ -176,7 +186,8 @@ nav {
 
 .window {
   overflow: hidden;
-  width: 805px;
+  width: 815px;
+  padding: 8px;
 }
 
 .project-container {
@@ -192,6 +203,11 @@ nav {
 .project-container button{
   background: none;
   border: none;
+  padding: 0;
+}
+
+.project-container button:focus-within{
+  outline: 3px solid var(--verde);
 }
 
 .project {
@@ -256,8 +272,12 @@ nav {
 }
 
 input {
-  outline: none;
   width: 100%;
+}
+
+input:focus {
+  outline: 3px solid var(--verde);
+  padding: 8px;
 }
 
 .send-button {
