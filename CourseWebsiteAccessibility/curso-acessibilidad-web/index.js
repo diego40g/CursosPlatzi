@@ -78,6 +78,7 @@ function showNotification() {
 /** Esta funcion se llama cuando la persona hace click en cualquier porjecto del carousel */
 function openModal(e) {
   document.querySelector(".modal-container").style.display = "flex";
+  document.getElementById("modal-header").focus();
 }
 
 /** Esta funcion se llama para cerrar el modal */
