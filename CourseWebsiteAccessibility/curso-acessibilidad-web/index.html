@@ -108,14 +108,19 @@
 
     <footer id="contacto" class="contact-section">
       <h2 class="header">Contacto</h2>
+      <p class="intro">Para mandarme un mensaje puedes llenar el siguiente formulario</p>
       <form class="form-container">
-        <p class="form-label">Nombre</p>
-        <input type="text" aria-label="nombre"/> <br />
-        <p class="form-label">Correo</p>
+        <label class="form-label">Nombre</label>
+        <input type="text" aria-label="nombre" id="name"/>
+        <span class="name-error"></span>
+        <br />
+        <label class="form-label">Correo</label>
         <input type="text" aria-label="correo"/> <br />
+        <span class="email-error"></span>
         <div class="message-input">
-          <p class="form-label">Mensaje</p>
+          <label class="form-label">Mensaje</label>
           <input type="text" aria-label="mensaje"/> <br />
+          <span class="message-error"></span>
         </div>
         <button class="send-button" aria-label="Boton enviar formulario">Enviar</button>
       </form>
