@@ -112,20 +112,20 @@
       <form class="form-container">
         <label class="form-label">Nombre</label>
         <input type="text" aria-label="nombre" id="name"/>
-        <span class="name-error"></span>
+        <span class="name-error" aria-live="assertive"></span>
         <br />
         <label class="form-label">Correo</label>
-        <input type="text" aria-label="correo"/> <br />
-        <span class="email-error"></span>
+        <input type="text" aria-label="correo" id="email"/> <br />
+        <span class="email-error" aria-live="assertive"></span>
         <div class="message-input">
           <label class="form-label">Mensaje</label>
-          <input type="text" aria-label="mensaje"/> <br />
-          <span class="message-error"></span>
+          <input type="text" aria-label="mensaje" id="message"/> <br />
+          <span class="message-error" aria-live="assertive"></span>
         </div>
         <button class="send-button" aria-label="Boton enviar formulario">Enviar</button>
       </form>
     </footer>
-    <div class="notification">El formulario fue enviado sin errores</div>
+    <div class="notification" aria-live="assertive"></div>
     <div class="modal-container">
       <div class="modal">
         <h2 class="header" id="modal-header" tabindex="0">Ejemplo de un proyecto mio</h2>

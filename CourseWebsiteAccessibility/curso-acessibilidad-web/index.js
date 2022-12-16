@@ -75,8 +75,20 @@ function clickLeft() {
 function validateForm(e) {
   e.preventDefault();
   const nameField = document.getElementById("name");
+  const emailField = document.getElementById("email");
+  const messageField = document.getElementById("message");
   if(nameField === ""){
     document.getElementById("name-error").innerHTML = "¡Para enviar el formulario se necesita un nombre!"
+  } else {
+    showNotification();
+  }
+  if(emailField === ""){
+    document.getElementById("email-error").innerHTML = "¡Para enviar el formulario se necesita un email!"
+  } else {
+    showNotification();
+  }
+  if(messageField === ""){
+    document.getElementById("message-error").innerHTML = "¡Para enviar el formulario se necesita un mensaje!"
   } else {
     showNotification();
   }
@@ -86,6 +98,7 @@ function validateForm(e) {
 function showNotification() {
   document.getElementById("name-error").innerHTML = "";
   document.querySelector(".form-container").reset();
+  document.querySelector(".notification").innerHTML = "El formulario fue enviado sin errores";
   document.querySelector(".notification").style.display = "flex";
   setTimeout(function() {
     document.querySelector(".notification").style.display = "none";
