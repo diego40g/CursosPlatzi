@@ -65,3 +65,34 @@ nav .profile-link a {
     color: black;
     border-bottom: 1px solid black;
 }
+
+main {
+    background-image: url('/assets/img/Cover.webp');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main .home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+main .home-container .home-main-text {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    margin: -120px 0 50px 0;
+}
+main .home-container .home-main-button {
+    background-color: #47cfac;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+    width: 350px;
+}
