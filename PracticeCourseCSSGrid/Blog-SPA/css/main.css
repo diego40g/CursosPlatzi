@@ -66,28 +66,31 @@ nav .profile-link a {
     border-bottom: 1px solid black;
 }
 
-main {
-    background-image: url('/assets/img/Cover.webp');
+.home-main {
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
     height: 100%;
+    background-image: url('/assets/img/Cover.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-main .home-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
+.home-main .home-main-container {
+    display: grid;
+    grid-column: 2;
+    justify-items: center;
+    height: 350px;
+    margin-top: 80px;
 }
-main .home-container .home-main-text {
-    font-weight: bold;
+.home-main .home-main-container .home-main-text {
+    font-size: 30px;
+    font-weight: 700px;
+    letter-spacing: 10px;
+    color: white;
     text-transform: uppercase;
     text-align: center;
-    color: white;
-    margin: -120px 0 50px 0;
 }
-main .home-container .home-main-button {
+.home-main .home-main-container .home-main-button {
     background-color: #47cfac;
     border-radius: 5px;
     padding: 10px;
