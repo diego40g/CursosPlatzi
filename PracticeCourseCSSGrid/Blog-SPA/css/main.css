@@ -188,3 +188,17 @@ footer p {
 .blogpost-main-container article h2 {
     font-size: 35px;
 }
+
+.contact-main-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #cdd2da;
+}
+.contact-main-container img{
+    width: 100%;
+}
+.contact-main-container .left, .contact-main-container .right {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 2fr 1fr;
+}
