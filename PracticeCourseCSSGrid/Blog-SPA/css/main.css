@@ -212,3 +212,53 @@ footer p {
 .contact-main-container img{
     width: 100px;
 }
+
+.profile-main {
+    display: grid;
+}
+.profile-main .profile-description-container {
+    background-color: #e6e9ed;
+    padding: 40px 50px;
+}
+.profile-main-description {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 2fr;
+}
+.profile-description-img-container {
+    grid-column: 1;
+}
+.profile-description-img-container img {
+    width: 85%;
+}
+.profile-description-info-container {
+    grid-column: 2;
+}
+.profile-description-info-container p {
+    margin-bottom: 35px;
+}
+.profile-projects-container {
+    padding: 0 50px 40px;
+}
+.profile-projects-container h3 {
+    border-bottom: 1px solid #cdd2da;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.project-button {
+    border: 1px solid #47cfac;
+    padding: 10px 15px;
+    font-size: 12px;
+}
+.profile-projects-container .project-container {
+    display: inline-block;
+    padding-left: 10px;
+    max-width: 30%;
+    margin-bottom: 50px;
+}
+.profile-projects-container .project-container p{
+    margin-bottom: 35px;
+}
+.profile-projects-container .project-container img {
+    width: 100%;
+}
