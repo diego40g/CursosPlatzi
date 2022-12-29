@@ -243,3 +243,8 @@ footer p {
 .project-container img {
     width: 100%;
 }
+.project-button {
+    border: 1px solid #47cfac;
+    padding: 10px 15px;
+    font-size: 12px;
+}
