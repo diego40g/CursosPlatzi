@@ -22,6 +22,18 @@
         display: block;
     }
 }
+@media (max-width: 960px) {
+    .contact-main-container {
+        height: auto;
+        padding-top: 40px;
+    }
+    .contact-main-container .contact-left, .contact-main-container .contact-right {
+        margin: 0;
+    }
+    .contact-main-container div {
+        width: 300px;
+    }
+}
 
 @media (max-width: 600px) {
     .blogs-posts-container .post-container {
