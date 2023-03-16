@@ -1,0 +1,11 @@
+{
+  "name": "coursescopeclosure",
+  "version": "1.0.0",
+  "description": "projects to understand scope and closures in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Paz",
+  "license": "ISC"
+}
