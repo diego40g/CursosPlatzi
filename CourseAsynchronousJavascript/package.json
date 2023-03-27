@@ -1,0 +1,15 @@
+{
+  "name": "courseasynchronousjavascript",
+  "version": "1.0.0",
+  "description": "Exercise to understand the asynchronous in javascript",
+  "main": "index.js",
+  "keywords": [
+    "javascript"
+  ],
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Paz",
+  "license": "MIT"
+}
