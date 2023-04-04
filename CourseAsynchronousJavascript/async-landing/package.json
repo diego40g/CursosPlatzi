@@ -4,7 +4,8 @@
   "description": "Landing page, for practice asynchrous javascript in single page using APIs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gh-pages": "gh-pages -d src"
   },
   "keywords": [
     "javascript"
@@ -13,5 +14,8 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
