@@ -1,0 +1,17 @@
+{
+  "name": "001_firstproject",
+  "version": "1.0.0",
+  "description": "First project to understand use of typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Diego Paz",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
