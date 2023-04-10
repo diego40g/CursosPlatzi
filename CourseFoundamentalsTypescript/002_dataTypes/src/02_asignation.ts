@@ -1,0 +1,3 @@
+(() => {
+  let myProductName = "Product example";
+}) ();
