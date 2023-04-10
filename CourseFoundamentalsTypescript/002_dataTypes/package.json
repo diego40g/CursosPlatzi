@@ -1,0 +1,17 @@
+{
+  "name": "002_datatypes",
+  "version": "1.0.0",
+  "description": "Understand the types, declaration and asignation in typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Diego Paz",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
