@@ -10,5 +10,8 @@
     "Typescript"
   ],
   "author": "Diego Paz",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
 }
