@@ -1,0 +1,14 @@
+{
+  "name": "006_libraries",
+  "version": "1.0.0",
+  "description": "Using libraries into typescript project",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Diego Paz",
+  "license": "MIT"
+}
