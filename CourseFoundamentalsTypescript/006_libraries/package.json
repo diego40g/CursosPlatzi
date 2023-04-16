@@ -12,6 +12,7 @@
   "author": "Diego Paz",
   "license": "MIT",
   "devDependencies": {
+    "@types/lodash": "^4.14.194",
     "typescript": "^5.0.4"
   },
   "dependencies": {
