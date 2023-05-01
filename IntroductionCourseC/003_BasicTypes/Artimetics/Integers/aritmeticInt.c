@@ -16,8 +16,11 @@ int main() {
     int num1 = 4294967123;
     unsigned int num2 = 4294967123;
 
-    printf("Integer 1: %d", num1);
-    printf("Integer 1: %d", num2);
+    printf("Integer 1: %d", num1); //using in base decimal
+    printf("Integer 1: %o", num1); //using in base octal
+    printf("Integer 1: %x", num1); //using in base hexadecimal
+    printf("Integer 1: %i", num1); 
+    printf("Integer 1: %u", num2);
 
     return 0;
 }
