@@ -14,5 +14,5 @@ int main(){
     unsigned char letter2 = 65; //A
 
     printf("Val1: %c",letter1);
-    printf("Val1: %u",letter2);
+    printf("Val1: %c",letter2);
 }
