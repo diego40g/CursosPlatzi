@@ -1,4 +1,4 @@
-#include "externVariables.c";
+#include "externVariables.h"
 
 int main(){
     a = 1;
